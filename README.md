@@ -1,5 +1,2 @@
-
-[![MasterHead](https://octodex.github.com/images/grinchtocat.gif)](https://github.com/FelipeCostaq)
-<h1>Teste</h1>
-
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/grinchtocat.gif">
 

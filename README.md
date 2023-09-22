@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/grinchtocat.gif">
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/bewitchedtocat.jpg">
 <h1 align="left">Aprendendo:</h1>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -9,7 +9,5 @@
 <h1 align="left">Contatos:</h1>
 <div>
   <a href="https://www.instagram.com/felpizxx" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href = "felipecostasiqu@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</a>
-
+  </a>
 </div>

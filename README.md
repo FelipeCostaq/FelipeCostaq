@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F769974867521271478%2F&psig=AOvVaw1fLCRBmDzubzvC9sLP4uaJ&ust=1696285777088000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPCEzJDz1YEDFQAAAAAdAAAAABBI">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/24c11c5f8264b1e55a7bbea86e0f02cd/tumblr_oicaqhd9ul1tgzy56o1_1280.gifv">
 <h1 align="left">Aprendendo:</h1>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;

@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" height="300" width="400" src="https://i.redd.it/m8nkqt06l4451.png">
+<img align="right" alt="Coding" height="300" width="300" src="https://i.redd.it/m8nkqt06l4451.png">
 <h1 align="left">Aprendendo:</h1>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;

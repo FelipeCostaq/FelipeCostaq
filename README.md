@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vhv.rs%2Fviewpic%2FhThmmb_dark-souls-pixel-art-bonfire-hd-png-download%2F&psig=AOvVaw1fLCRBmDzubzvC9sLP4uaJ&ust=1696285777088000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCPCEzJDz1YEDFQAAAAAdAAAAABBn">
+<img align="right" alt="Coding" width="400" src="https://i.redd.it/black-knight-pixel-art-v0-cwxb2yfv199a1.png?s=3a4e0fbf5dc4dc438b012011b261201858ff89d1">
 <h1 align="left">Aprendendo:</h1>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;

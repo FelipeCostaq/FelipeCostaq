@@ -3,7 +3,7 @@
 
 <h1 align="">Tecnologias: </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,wasm,python,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,wasm,git,python,html,css)](https://skillicons.dev)
 
 
 

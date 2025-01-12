@@ -1,4 +1,4 @@
-<img align="right" width="250" src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/bat.gif?raw=true" alt="bat.gif by Lior Shkedi">
+<img align="right" width="250" src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/broken.jpg?raw=true">
 
 
 <h1 align="left">Tecnologias: </h1>

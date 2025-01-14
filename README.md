@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/dspixel.jpg?raw=true" alt="dssolaire">
+  <img height="500" width="500" src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/dspixel.jpg?raw=true" alt="dssolaire">
 </p>
 <h1 align="left" style="font-size: 36px; margin-bottom: 0;">Sobre mim: </h1>
 <p>Olá, meu nome é Felipe tenho 16 anos e estou estudando o ecossistema .NET para me aprofundar no desenvolvimento de aplicações e sistemas back-end.</p>

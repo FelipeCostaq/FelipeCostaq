@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="300" width="700" align="center" src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/MangaPanel.jpg?raw=true">
+<img hight="300" width="500" align="center" src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/MangaPanel.jpg?raw=true">
 </div>
 
 

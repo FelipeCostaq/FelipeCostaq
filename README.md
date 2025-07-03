@@ -1,7 +1,4 @@
-<div style="text-align: center;">
-  <img align="center" src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/MangaPanel.jpg?raw=true" 
-       style="display: block; width: 80%; height: 250px; object-fit: cover;">
-</div>
+<img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/MangaPanel.jpg?raw=true" style="display: block; width: 80%; height: 250px; object-fit: cover; margin: 0 auto;">
 
 
 

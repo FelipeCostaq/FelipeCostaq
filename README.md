@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/dandadanRot.jpg?raw=true" 
-       style="display: block; width: 100%; height: 200px; object-fit: cover;">
+       style="display: block; width: 100%; height: 400px; object-fit: cover;">
 </div>
 
 

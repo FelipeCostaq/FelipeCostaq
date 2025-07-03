@@ -2,15 +2,15 @@
 <br><br>
 
 
-# Front-end:
+Front-end:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,wasm)](https://skillicons.dev)
 
-# Back-end:
+Back-end:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,java)](https://skillicons.dev)
 
-# Outros: 
+Outros: 
 
 [![My Skills](https://skillicons.dev/icons?i=unity,git,github)](https://skillicons.dev)
 

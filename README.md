@@ -4,10 +4,22 @@
 
 <div align = "center">
   <h1>Olá, meu nome é <strong>Felipe</strong></h1>
+  <div align="center">
+  <a href="https://www.linkedin.com/in/felipecostasiq" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+
+<a href="mailto:felipecostasiqu@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
+
 </div>
 
-## ⌨️ Tecnologias
+###
+</div>
+
 <div align="center">
+  <h1>⌨️ Tecnologias</h1>
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />

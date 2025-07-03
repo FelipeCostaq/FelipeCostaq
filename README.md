@@ -1,7 +1,6 @@
 <div style="text-align: center;">
   <img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/dandadanRot.jpg?raw=true" 
-       width="30%" 
-       style="transform: rotate(-90deg); display: inline-block;">
+       style="display: inline-block;">
 </div>
 
 

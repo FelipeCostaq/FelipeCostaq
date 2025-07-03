@@ -2,24 +2,14 @@
 <img hight="300" width="600" align="center" src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/MangaPanel.jpg?raw=true">
 </div>
 
+# Olá, meu nome é Felipe,
 
+[![Linkedin Badge](https://img.shields.io/badge/-felipecostasiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecostasiq/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Instagram Badge](https://img.shields.io/badge/-felpizxx-purple?style=flat-square&logo=instagram&logoColor=white&link=)](https://www.instagram.com/felpizxx/)
+[![Gmail Badge](https://img.shields.io/badge/-felipecostasiq@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipecostasiqu@gmail.com)](mailto:felipecostasiqu@gmail.com)
 
+## ⌨️ Tecnologias
 
-Front-end:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,wasm)](https://skillicons.dev)
-
-Back-end:
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,java)](https://skillicons.dev)
-
-Outros: 
-
-[![My Skills](https://skillicons.dev/icons?i=unity,git,github)](https://skillicons.dev)
-
-
-# Portfólio:
-<h3>Clique <a href="https://felipecdeveloper.netlify.app/">aqui</a> para ser redirecionado para meu portfólio.</h3>
 
 
 

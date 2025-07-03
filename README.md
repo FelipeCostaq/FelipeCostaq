@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/MangaPanel.jpg?raw=true" 
+  <img align="center" src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/MangaPanel.jpg?raw=true" 
        style="display: block; width: 80%; height: 250px; object-fit: cover;">
 </div>
 

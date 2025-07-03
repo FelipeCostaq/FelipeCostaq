@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/okarunImage.jpg?raw=true" width="50%" align="right" />
+<img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/okarunImage.jpg?raw=true" width="30%" align="right" />
 <br><br>
 
 

@@ -1,4 +1,8 @@
-<img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/MangaPanel.jpg?raw=true" style="display: block; width: 80%; height: 250px; object-fit: cover; margin: 0 auto;">
+<div style="text-align: center;">
+  <img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/MangaPanel.jpg?raw=true" 
+       style="display: inline-block; width: 80%; height: 250px; object-fit: cover;">
+</div>
+
 
 
 

@@ -1,5 +1,8 @@
-<img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/dandadanwlpp.jpg?raw=true" width="30%" align="center" style="transform: rotate(-90deg);"/>
-<br><br>
+<div style="text-align: center;">
+  <img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/dandadanwlpp.jpg?raw=true" 
+       width="30%" 
+       style="transform: rotate(-90deg); display: inline-block;">
+</div>
 
 
 Front-end:

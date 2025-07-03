@@ -1,7 +1,8 @@
 <div style="text-align: center;">
   <img src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/dandadanRot.jpg?raw=true" 
-       style="display: inline-block;">
+       style="display: block; width: 100%; height: auto; max-height: 300px; object-fit: cover;">
 </div>
+
 
 
 

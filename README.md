@@ -34,8 +34,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />

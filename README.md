@@ -21,15 +21,15 @@
 <div align="center">
   <h1>🛠️ Tecnologias</h1>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo" />
-    <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo" />
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo" />
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo" />
-    <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
-    <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo" />
-    <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" />
-    <img src="https://cdn.simpleicons.org/unity/000000" height="30" alt="unity logo" />
-    <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo" />
+    <img src="https://skillicons.dev/icons?i=html" height="30" />
+    <img src="https://skillicons.dev/icons?i=css" height="30"  />
+    <img src="https://skillicons.dev/icons?i=javascript" height="30" />
+    <img src="https://skillicons.dev/icons?i=typescript" height="30"  />
+    <img src="https://skillicons.dev/icons?i=react" height="30" />
+    <img src="https://skillicons.dev/icons?i=cs" height="30"  />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="30"/>
+    <img src="https://skillicons.dev/icons?i=unity" />
+    <img src="https://skillicons.dev/icons?i=git"  />
   </div>
 </div>
 

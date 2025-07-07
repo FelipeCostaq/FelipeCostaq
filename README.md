@@ -25,11 +25,11 @@
     <img src="https://skillicons.dev/icons?i=css" height="30"  />
     <img src="https://skillicons.dev/icons?i=javascript" height="30" />
     <img src="https://skillicons.dev/icons?i=typescript" height="30"  />
-    <img src="https://skillicons.dev/icons?i=react" height="30" />
-    <img src="https://skillicons.dev/icons?i=cs" height="30"  />
+    <img src="https://skillicons.dev/icons?i=node" height="30" />
+    <img src="https://skillicons.dev/icons?i=react" height="30"  />
     <img src="https://skillicons.dev/icons?i=dotnet" height="30"/>
-    <img src="https://skillicons.dev/icons?i=unity" />
-    <img src="https://skillicons.dev/icons?i=git"  />
+    <img src="https://skillicons.dev/icons?i=unity" height="30"/>
+    <img src="https://skillicons.dev/icons?i=git"  height="30"/>
   </div>
 </div>
 

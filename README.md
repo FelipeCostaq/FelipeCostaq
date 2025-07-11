@@ -1,7 +1,3 @@
-<div align="center">
-<img hight="300" width="600" align="center" src="https://github.com/FelipeCostaq/FelipeCostaq/blob/main/MangaPanel.jpg?raw=true">
-</div>
-
 <div align = "center">
   <h1>👋 Olá, meu nome é <strong>Felipe</strong>!</h1>
   <div align="center">

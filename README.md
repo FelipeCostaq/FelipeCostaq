@@ -1,6 +1,6 @@
 <h1>👋 Olá, meu nome é <strong>Felipe</strong>!</h1>
 
-<h1>🚀 Tecnologias</h1>
+<h2>🚀 Tecnologias</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://skillicons.dev/icons?i=html" height="30" />
   <img src="https://skillicons.dev/icons?i=css" height="30"  />
@@ -11,14 +11,14 @@
   <img src="https://skillicons.dev/icons?i=git"  height="30"/>
 </div>
 
-<h1>📌 Projetos</h1>
+<h2>📌 Projetos</h2>
 <div>
   <ul>
     <li href="https://github.com/FelipeCostaq/car-parking-app" target="_blank">Sistema de Estacionamento - FullStack</li>
   </ul>
 </div>
 
-<h1>Contato</h1>
+<h2>📩 Contato</h2>
 <div>
   <a href="https://www.linkedin.com/in/felipecostasiq" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />

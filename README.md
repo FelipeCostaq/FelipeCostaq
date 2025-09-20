@@ -1,14 +1,14 @@
 <h1>👋 Olá, meu nome é <strong>Felipe</strong>!</h1>
 
 <h2>🚀 Tecnologias</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://skillicons.dev/icons?i=html" height="30" />
-  <img src="https://skillicons.dev/icons?i=css" height="30"  />
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" />
-  <img src="https://skillicons.dev/icons?i=react" height="30"  />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30"/>
-  <img src="https://skillicons.dev/icons?i=unity" height="30"/>
-  <img src="https://skillicons.dev/icons?i=git"  height="30"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" height="40"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40"/>
+  <img src="https://skillicons.dev/icons?i=unity" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git"  height="40"/>
 </div>
 
 <h2>📌 Projetos</h2>

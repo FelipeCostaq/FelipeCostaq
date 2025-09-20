@@ -14,6 +14,7 @@
 <h2>📌 Projetos</h2>
 <div>
   <ul>
+    <li><a href="https://portfolio-felipecosta.netlify.app/" target="_blank">Portfólio - FullStack</a></li>
     <li><a href="https://github.com/FelipeCostaq/car-parking-app" target="_blank">Sistema de Estacionamento - FullStack</a></li>
   </ul>
 </div>

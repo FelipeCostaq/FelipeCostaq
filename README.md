@@ -2,13 +2,13 @@
 
 <h2>🚀 Tecnologias</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" height="40"  />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
-  <img src="https://skillicons.dev/icons?i=react" height="40"  />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40"/>
-  <img src="https://skillicons.dev/icons?i=unity" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git"  height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" height="35" />
+  <img src="https://skillicons.dev/icons?i=css" height="35"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="35" />
+  <img src="https://skillicons.dev/icons?i=react" height="35"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="35"/>
+  <img src="https://skillicons.dev/icons?i=unity" height="35"/>
+  <img src="https://skillicons.dev/icons?i=git"  height="35"/>
 </div>
 
 <h2>📌 Projetos</h2>

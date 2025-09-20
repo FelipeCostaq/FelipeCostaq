@@ -2,14 +2,13 @@
 
 <h2>🚀 Tecnologias</h2>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
+  <li>HTML5 & CSS3</li>
   <li>JavaScript</li>
   <li>React.js</li>
   <li>C#</li>
   <li>ASP.NET</li>
   <li>SQL Server</li>
-  <li>Git e Github</li>
+  <li>Git & Github</li>
 </ul>
 
 <h2>📌 Projetos</h2>

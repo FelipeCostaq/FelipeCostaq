@@ -1,15 +1,16 @@
 <h1>👋 Olá, meu nome é <strong>Felipe</strong>!</h1>
 
 <h2>🚀 Tecnologias</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=html" height="35" />
-  <img src="https://skillicons.dev/icons?i=css" height="35"  />
-  <img src="https://skillicons.dev/icons?i=javascript" height="35" />
-  <img src="https://skillicons.dev/icons?i=react" height="35"  />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="35"/>
-  <img src="https://skillicons.dev/icons?i=unity" height="35"/>
-  <img src="https://skillicons.dev/icons?i=git"  height="35"/>
-</div>
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>React.js</li>
+  <li>C#</li>
+  <li>ASP.NET</li>
+  <li>SQL Server</li>
+  <li>Git e Github</li>
+</ul>
 
 <h2>📌 Projetos</h2>
 <div>

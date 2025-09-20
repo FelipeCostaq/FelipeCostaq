@@ -3,7 +3,7 @@
 <h2>🚀 Tecnologias</h2>
 <ul>
   <li>HTML5 & CSS3</li>
-  <li>JavaScript</li>
+  <li>Javascript</li>
   <li>React.js</li>
   <li>C#</li>
   <li>ASP.NET</li>

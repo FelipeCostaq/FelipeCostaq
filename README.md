@@ -1,5 +1,8 @@
 <h1>👋 Olá, meu nome é <strong>Felipe</strong>!</h1>
-<p>🎓 Técnico em Informática para Internet - ETEC</p>
+<h2>🎓 Educação</h2>
+<ul>
+  <li>Técnico em Informática para Internet - ETEC</li>
+</ul>
 
 <h2>🚀 Tecnologias</h2>
 <ul>

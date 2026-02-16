@@ -14,8 +14,8 @@
 <div>
   <ul>
     <li><a href="https://itsfelipe.me" target="_blank">Portfólio - Front-end</a></li>
-    <li><a href="https://github.com/FelipeCostaq/car-parking-app" target="_blank">Sistema de Estacionamento - Full-Stack</a></li>
-    <li><a href="https://github.com/FelipeCostaq/financial-goals-api" target="_blank">Sistema de Metas Financeiras - Back-End</a></li>
+    <li><a href="https://github.com/FelipeCostaq/car-parking-app" target="_blank">Sistema de Estacionamento - Full-Stack API Restful</a></li>
+    <li><a href="https://github.com/FelipeCostaq/financial-goals-api" target="_blank">Sistema de Metas Financeiras - Back-End API Restful com JWT</a></li>
   </ul>
 </div>
 

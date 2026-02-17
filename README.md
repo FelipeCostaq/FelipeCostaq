@@ -13,7 +13,7 @@
 <h2>📌 Projetos</h2>
 <div>
   <ul>
-    <li><a href="https://itsfelipe.me" target="_blank">Portfólio - Front-end</a></li>
+    <li><a href="https://github.com/FelipeCostaq/portfolio-website" target="_blank">Portfólio - Front-end</a></li>
     <li><a href="https://github.com/FelipeCostaq/car-parking-app" target="_blank">Sistema de Estacionamento - Full-Stack Restful API</a></li>
     <li><a href="https://github.com/FelipeCostaq/financial-goals-api" target="_blank">Sistema de Metas Financeiras - Back-End Restful API com JWT</a></li>
     <li><a href="https://github.com/FelipeCostaq/Stocker" target="_blank">Sistema de Cadastro de Produtos - Back-End Minimal API</li>

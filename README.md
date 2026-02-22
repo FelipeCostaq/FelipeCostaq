@@ -17,7 +17,6 @@
     <li><a href="https://github.com/FelipeCostaq/car-parking-app" target="_blank">Sistema de Estacionamento - Full-Stack Controller-based RESTful API</a></li>
     <li><a href="https://github.com/FelipeCostaq/financial-goals-api" target="_blank">Sistema de Metas Financeiras - Back-End Controller-based RESTful API com JWT</a></li>
     <li><a href="https://github.com/FelipeCostaq/desafio-fooddash-backend" target="_blank">Sistema de Gestão de Pedidos - Back-End Minimal RESTful API</a></li>
-    <li><a href="https://github.com/FelipeCostaq/Stocker" target="_blank">Sistema de Cadastro de Produtos - Back-End Minimal RESTful API</li>
   </ul>
 </div>
 

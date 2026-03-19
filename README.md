@@ -1,9 +1,6 @@
 <h1>👋 Olá, meu nome é <strong>Felipe</strong>!</h1>
 <h2>🚀 Tecnologias</h2>
 <ul>
-  <li>HTML5 & CSS3</li>
-  <li>Javascript</li>
-  <li>React.js</li>
   <li>C#</li>
   <li>ASP.NET</li>
   <li>SQL Server</li>
